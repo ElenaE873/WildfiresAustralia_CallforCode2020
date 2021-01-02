@@ -1,0 +1,137 @@
+
+# multivariate analysis for 2006 - max
+data_df_NSW_2006 = df_NSW_2006[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2006.plot(subplots = True, figsize = (15, 6))
+
+
+
+# multivariate analysis for 2007 - max
+data_df_NSW_2007 = df_NSW_2007[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2007.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2008 - max
+data_df_NSW_2008 = df_NSW_2008[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2008.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2009 - max
+data_df_NSW_2009 = df_NSW_2009[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2009.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2010 - max
+data_df_NSW_2010 = df_NSW_2010[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2010.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2011 - max
+data_df_NSW_2011 = df_NSW_2011[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2011.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2012 - max
+data_df_NSW_2012 = df_NSW_2012[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2012.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2013 - max
+data_df_NSW_2013 = df_NSW_2013[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2013.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2014 - max
+data_df_NSW_2014 = df_NSW_2014[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2014.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2015 - max
+data_df_NSW_2015 = df_NSW_2015[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2015.plot(subplots = True, figsize = (15, 6))
+
+
+
+# multivariate analysis for 2016 - max
+data_df_NSW_2016 = df_NSW_2016[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2016.plot(subplots = True, figsize = (15, 6))
+
+# multivariate analysis for 2017 - max
+data_df_NSW_2017 = df_NSW_201[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2017.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2018 - max
+data_df_NSW_2018 = df_NSW_2018[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2018.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2019 - max
+data_df_NSW_2019 = df_NSW_2019[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2019.plot(subplots = True, figsize = (15, 6))
+
+
+# multivariate analysis for 2020 - max
+data_df_NSW_2020 = df_NSW_2020[["Precipitation_max", 
+                                "RelativeHumidity_max", 
+                                "SoilWaterContent_max", 
+                                "SolarRadiation_max", 
+                                "Temperature_max", "WindSpeed_max"]]
+data_df_NSW_2020.plot(subplots = True, figsize = (15, 6))
+
+
