@@ -1,0 +1,52 @@
+# lets plot multivariate analysis for a single year
+df_NSW_2006 = df_NSW[df_NSW["year"] == 2006]
+
+# lets plot multivariate analysis for a single year
+df_NSW_2007 = df_NSW[df_NSW["year"] == 2007]
+
+# lets plot multivariate analysis for a single year
+df_NSW_2008 = df_NSW[df_NSW["year"] == 2008]
+
+# lets plot multivariate analysis for a single year
+df_NSW_2009 = df_NSW[df_NSW["year"] == 2009]
+
+
+# lets plot multivariate analysis for a single year
+df_NSW_2010 = df_NSW[df_NSW["year"] == 2010]
+
+# lets plot multivariate analysis for a single year
+df_NSW_2011 = df_NSW[df_NSW["year"] == 2011]
+
+
+# lets plot multivariate analysis for a single year
+df_NSW_2012 = df_NSW[df_NSW["year"] == 2012]
+
+
+# lets plot multivariate analysis for a single year
+df_NSW_2013 = df_NSW[df_NSW["year"] == 2013]
+
+
+# lets plot multivariate analysis for a single year
+df_NSW_2014 = df_NSW[df_NSW["year"] == 2014]
+
+
+# lets plot multivariate analysis for a single year
+df_NSW_2015 = df_NSW[df_NSW["year"] == 2015]
+
+
+# lets plot multivariate analysis for a single year
+df_NSW_2016 = df_NSW[df_NSW["year"] == 2016]
+
+
+# lets plot multivariate analysis for a single year
+df_NSW_2017 = df_NSW[df_NSW["year"] == 2017]
+
+# lets plot multivariate analysis for a single year
+df_NSW_2018 = df_NSW[df_NSW["year"] == 2018]
+
+# lets plot multivariate analysis for a single year
+df_NSW_2019 = df_NSW[df_NSW["year"] == 2019]
+
+# lets plot multivariate analysis for a single year
+df_NSW_2020 = df_NSW[df_NSW["year"] == 2020]
+
